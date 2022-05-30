@@ -1,0 +1,1 @@
+ts npm package sample
