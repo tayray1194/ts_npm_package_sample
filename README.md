@@ -1,0 +1,1 @@
+# ts_npm_package_sample
